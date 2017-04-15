@@ -1,2 +1,15 @@
 # testobject_shoppinglist_android
 Sample automation scripts using Selenium Appium Java for Shopping List App pf Test Object.
+
+# H1 Technologies Used:
+
+Automation Tool: Appium
+Programming lang: Java
+Framework Type: Data Driven Framework
+Framework Design: Page Object Model with Page Factory patterns
+Testing Framework: TestNG
+Cloud Platform: Test Object
+App under test: Test Object's Shopping List apk
+Device: Real Android device
+
+The above framework is capable of running tests on multiple platforms like iOS, Windows, Blackberry etc. with little modification.
